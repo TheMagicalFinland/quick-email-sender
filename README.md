@@ -7,4 +7,4 @@ You need to install the required packages using the following commands on your n
 - npm i os
 - npm i console-title
 
-or you may download the executable file and run it, but this prevents you from editing it though.
+or you may download the executable file from project.zip and run it, but this prevents you from editing it though.
